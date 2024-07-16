@@ -1,4 +1,4 @@
-# Steps to Install zabbix Agent
+# Steps to Install zabbix Agent on AWS EC2
 ---
 ### Step 1: Install zabbix repository
 ```
